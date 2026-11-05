@@ -7,3 +7,5 @@ obj
 bin
 *.users
 /WebAppPoliMusicV2/.workbuddy-ai
+/packages
+/.workbuddy-ai/memory
